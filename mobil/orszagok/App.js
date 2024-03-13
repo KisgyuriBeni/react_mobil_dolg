@@ -20,6 +20,14 @@ export default function App() {
     })
   }
 
+/*
+* File: App.js
+* Author: Kisgyorgy Bendeguz
+* Copyright: 2023, Kisgyorgy
+* Date: 2023-12-04
+*
+*/
+
 
   return (
     <View style={styles.container}>
